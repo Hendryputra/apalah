@@ -1,0 +1,10 @@
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-DQT_NO_DEBUG
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-D_TTY_POSIX_
+-o
+/home/mamang/Documents/qmodbus/build/src/moc_mainwindow.cxx
+/home/mamang/Documents/qmodbus/src/mainwindow.h

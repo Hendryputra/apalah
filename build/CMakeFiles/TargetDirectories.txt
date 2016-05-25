@@ -1,0 +1,2 @@
+/home/mamang/Documents/qmodbus/build/CMakeFiles/dist.dir
+/home/mamang/Documents/qmodbus/build/CMakeFiles/qmodbus.dir
